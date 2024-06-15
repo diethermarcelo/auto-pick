@@ -24,7 +24,7 @@
 - See your cars
 - Negotiate
 
-## Flow
+## Flow:
 1. Ask
     1. List cars
         1. 
