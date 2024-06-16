@@ -1,4 +1,4 @@
-# Auto Pick or Go Trip
+# auto-pick/go-trip
 - A CLI app for a individuals who wanted to rent an auto. Built with Go Programming Language. 
 
 ## Technologies:
@@ -24,7 +24,7 @@
 - See your cars
 - Negotiate
 
-## Flow
+## Flow:
 1. Ask
     1. List cars
         1. 
