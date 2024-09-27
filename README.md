@@ -1,5 +1,5 @@
 # auto-pick/go-trip
-- A CLI app for a individuals who wanted to rent an auto. Built with Go Programming Language. 
+- A console application for a individuals who wanted to rent an auto. Built with Go Programming Language. 
 
 ## Technologies:
 - Go 1.2.0+
